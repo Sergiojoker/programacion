@@ -4,5 +4,5 @@ lista=  ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Sept
 print (lista )
 lista=  ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"]
 print (lista [0:3])
-lista=  ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre",1,2,3["manuel",0.2,0.25,True]]
+lista=  ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre",1,2,3,["manuel",0.2,0.25,True]]
 print (lista [0:3])
